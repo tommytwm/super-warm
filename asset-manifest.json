@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/super-warm/static/css/main.34de6062.chunk.css",
-    "main.js": "/super-warm/static/js/main.b615c0b6.chunk.js",
-    "main.js.map": "/super-warm/static/js/main.b615c0b6.chunk.js.map",
+    "main.js": "/super-warm/static/js/main.1118c46f.chunk.js",
+    "main.js.map": "/super-warm/static/js/main.1118c46f.chunk.js.map",
     "runtime-main.js": "/super-warm/static/js/runtime-main.2055f4e1.js",
     "runtime-main.js.map": "/super-warm/static/js/runtime-main.2055f4e1.js.map",
     "static/js/2.e44875b3.chunk.js": "/super-warm/static/js/2.e44875b3.chunk.js",
@@ -12,7 +12,7 @@
     "static/js/4.0226f901.chunk.js": "/super-warm/static/js/4.0226f901.chunk.js",
     "static/js/4.0226f901.chunk.js.map": "/super-warm/static/js/4.0226f901.chunk.js.map",
     "index.html": "/super-warm/index.html",
-    "precache-manifest.9ea2707473082d69e6e7cb64cd3f9de8.js": "/super-warm/precache-manifest.9ea2707473082d69e6e7cb64cd3f9de8.js",
+    "precache-manifest.efeb3aef4ab41d4bdbcf888c00b510ae.js": "/super-warm/precache-manifest.efeb3aef4ab41d4bdbcf888c00b510ae.js",
     "service-worker.js": "/super-warm/service-worker.js",
     "static/css/main.34de6062.chunk.css.map": "/super-warm/static/css/main.34de6062.chunk.css.map"
   },
@@ -20,6 +20,6 @@
     "static/js/runtime-main.2055f4e1.js",
     "static/js/2.e44875b3.chunk.js",
     "static/css/main.34de6062.chunk.css",
-    "static/js/main.b615c0b6.chunk.js"
+    "static/js/main.1118c46f.chunk.js"
   ]
 }
