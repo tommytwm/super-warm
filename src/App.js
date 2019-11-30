@@ -5,7 +5,7 @@ import Navbar from "./components/Navbar/navbar";
 import 'semantic-ui-css/semantic.min.css'
 
 import Home from "./routes/home";
-import About from "./routes/about";
+import Forum from "./routes/forum";
 
 
 const App = () => (
@@ -14,7 +14,7 @@ const App = () => (
     <Suspense fallback={<div>Loading...</div>}>
       <Switch>
         <Route exact path="/" component={Home}/>
-        <Route path="/about" component={About}/>
+        <Route path="/forum" component={Forum}/>
       </Switch>
     </Suspense>
   </Router>
