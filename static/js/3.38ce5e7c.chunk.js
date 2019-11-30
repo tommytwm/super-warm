@@ -1,2 +1,0 @@
-(this["webpackJsonpsuper-warm"]=this["webpackJsonpsuper-warm"]||[]).push([[3],{30:function(e,n,r){"use strict";r.r(n);var t=r(0),s=r.n(t);n.default=function(){return s.a.createElement("div",null,"Hello!")}}}]);
-//# sourceMappingURL=3.38ce5e7c.chunk.js.map
