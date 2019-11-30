@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e7ce1bdcdc8a085bed8ea85fe01e07b4",
+    "revision": "c89cd4e2e5322c2ea8ceb1e4ba52b778",
     "url": "/super-warm/index.html"
   },
   {
-    "revision": "b35367eea1b3c4bfc2c3",
+    "revision": "2dc981222b5d584c0bfb",
     "url": "/super-warm/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/super-warm/static/js/2.6f5e968f.chunk.js"
   },
   {
-    "revision": "b35367eea1b3c4bfc2c3",
-    "url": "/super-warm/static/js/main.03ec881b.chunk.js"
+    "revision": "2dc981222b5d584c0bfb",
+    "url": "/super-warm/static/js/main.3adc5d65.chunk.js"
   },
   {
     "revision": "8bb0cb24e8d04f5a8d53",
