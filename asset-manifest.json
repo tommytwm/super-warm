@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/super-warm/static/css/main.b100e6da.chunk.css",
-    "main.js": "/super-warm/static/js/main.3adc5d65.chunk.js",
-    "main.js.map": "/super-warm/static/js/main.3adc5d65.chunk.js.map",
+    "main.js": "/super-warm/static/js/main.03ec881b.chunk.js",
+    "main.js.map": "/super-warm/static/js/main.03ec881b.chunk.js.map",
     "runtime-main.js": "/super-warm/static/js/runtime-main.627dbd4f.js",
     "runtime-main.js.map": "/super-warm/static/js/runtime-main.627dbd4f.js.map",
     "static/js/2.6f5e968f.chunk.js": "/super-warm/static/js/2.6f5e968f.chunk.js",
     "static/js/2.6f5e968f.chunk.js.map": "/super-warm/static/js/2.6f5e968f.chunk.js.map",
     "index.html": "/super-warm/index.html",
-    "precache-manifest.4dca5bbaa403cb9b2e17e6da9c2a80f0.js": "/super-warm/precache-manifest.4dca5bbaa403cb9b2e17e6da9c2a80f0.js",
+    "precache-manifest.78d030898edd81efd24a6647bd90b22b.js": "/super-warm/precache-manifest.78d030898edd81efd24a6647bd90b22b.js",
     "service-worker.js": "/super-warm/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/super-warm/static/css/main.b100e6da.chunk.css.map",
     "static/media/logo.svg": "/super-warm/static/media/logo.25bf045c.svg"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.627dbd4f.js",
     "static/js/2.6f5e968f.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.3adc5d65.chunk.js"
+    "static/js/main.03ec881b.chunk.js"
   ]
 }
