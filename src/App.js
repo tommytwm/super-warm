@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import React, { Suspense } from 'react';
 
-import Navbar from "./components/navbar";
+import Navbar from "./components/Navbar/navbar";
 import 'semantic-ui-css/semantic.min.css'
 
 import Home from "./routes/home";

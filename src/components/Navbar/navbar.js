@@ -12,27 +12,18 @@ export default class Navbar extends Component {
     return (
       <Menu>
         <Menu.Item
-          name='editorials'
-          active={activeItem === 'editorials'}
+          name='Home'
+          active={activeItem === 'Home'}
           onClick={this.handleItemClick}
         >
-          Editorials
+          Home
         </Menu.Item>
-
         <Menu.Item
-          name='reviews'
-          active={activeItem === 'reviews'}
+          name='Forum'
+          active={activeItem === 'Forum'}
           onClick={this.handleItemClick}
         >
-          Reviews
-        </Menu.Item>
-
-        <Menu.Item
-          name='upcomingEvents'
-          active={activeItem === 'upcomingEvents'}
-          onClick={this.handleItemClick}
-        >
-          Upcoming Events
+          Forum
         </Menu.Item>
       </Menu>
     )
