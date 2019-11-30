@@ -1,12 +1,15 @@
 import React from 'react';
 import {
     Grid,
-    Image,
     Segment,
+    Button,
+    Icon,
+    Divider,
 } from 'semantic-ui-react';
 
 import Post from './post';
 import Comments from './comments';
+import Previews from './previews';
 
 const ForumContainer = () => (
     <Grid divided='vertically'>
@@ -15,7 +18,16 @@ const ForumContainer = () => (
         </Grid.Column>
         <Grid.Column width={3}>
             <Segment>
-                <Image src='https://react.semantic-ui.com/images/wireframe/paragraph.png' />
+                <Grid.Row>
+                    <Button fluid icon labelPosition='left'>
+                        <Icon name='plus' />
+                        Add a post
+                    </Button>
+                    <Divider/>
+                </Grid.Row>
+                <Grid.Row>
+                    <Previews/>
+                </Grid.Row>
             </Segment>
         </Grid.Column>
         <Grid.Column width={8}>
