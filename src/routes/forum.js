@@ -1,9 +1,9 @@
 import React from 'react';
 
-const About = () => (
+const Forum = () => (
     <div>
         Hello!
     </div>
 );
 
-export default About;
+export default Forum;
