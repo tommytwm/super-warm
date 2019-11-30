@@ -1,9 +1,8 @@
 import React from 'react'
 import { Grid, Segment } from 'semantic-ui-react'
 import DropdownSimple from '../../components/navi/dropDown'
-import SearchStandard from '../../components/navi/search'
 
-const GridExampleEqualWidthColumn = () => (
+const NaviBar = () => (
   <Grid columns='equal'>
     <Grid.Column>
       <Segment>
@@ -13,11 +12,9 @@ const GridExampleEqualWidthColumn = () => (
     </Grid.Column>
     <Grid.Column width={8}>
       <Segment>
-        <SearchStandard/>
-
       </Segment>
     </Grid.Column>
   </Grid>
 )
 
-export default GridExampleEqualWidthColumn
+export default NaviBar;

@@ -18,6 +18,10 @@ const Post = () => (
                 to register with the Accessibility Centre to have myself
                 accommodated?
             </p>
+            <p>
+                It's safe to say that these symptoms have been bothering
+                me on a daily basis, and I think I need help.
+            </p>
         </Container>
     </div>
 );

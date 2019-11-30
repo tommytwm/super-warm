@@ -6,6 +6,7 @@ import {
 } from 'semantic-ui-react';
 
 import Post from './post';
+import Comments from './comments';
 
 const ForumContainer = () => (
     <Grid divided='vertically'>
@@ -19,11 +20,8 @@ const ForumContainer = () => (
         </Grid.Column>
         <Grid.Column width={8}>
             <Segment>
-                <Grid.Row>
-                    <Post/>
-                </Grid.Row>
-                <Grid.Row>
-                </Grid.Row>
+                <Post/>
+                <Comments/>
             </Segment>
         </Grid.Column>
         <Grid.Column width={3}>
