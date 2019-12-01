@@ -1,6 +1,6 @@
 import React from 'react'
 import Map from '../homePage/map.png'
-import { Card, Grid, Header, Segment } from 'semantic-ui-react'
+import { Card, Header, Segment } from 'semantic-ui-react'
 
 const Resources = () => (
     <div>
