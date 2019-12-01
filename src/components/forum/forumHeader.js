@@ -9,7 +9,7 @@ import {
 const ForumHeader = () => (
     <Segment>
         <Header as='h1'>
-            <Icon name='question circle outline' />
+            <Icon name='heart outline' />
             <Header.Content>
             Advice Column
             <Header.Subheader>Get some quick advice on some quick questions</Header.Subheader>
