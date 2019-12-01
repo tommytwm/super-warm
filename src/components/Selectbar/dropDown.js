@@ -6,6 +6,7 @@ const options = [
   { key: 2, text: 'Anxiety', value: 2 },
   { key: 3, text: 'Sadness', value: 3 },
   { key: 4, text: 'Overwhelm', value: 4 },
+  { key: 5, text: 'Lost', value: 5 },
 ]
 
 const DropdownSimple = () => (
