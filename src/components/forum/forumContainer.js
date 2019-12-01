@@ -12,7 +12,7 @@ import Comments from './comments';
 import Previews from './previews';
 
 const ForumContainer = () => (
-    <Grid divided='vertically'>
+    <Grid>
         <Grid.Row columns={4}>
         <Grid.Column width={3}>
         </Grid.Column>

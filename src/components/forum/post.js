@@ -3,11 +3,18 @@ import {
     Container,
     Header,
     Divider,
+    Label,
+    Icon
 } from 'semantic-ui-react';
 
 const Post = () => (
     <div>
         <Container text>
+            <Label color='blue'>
+                <Icon name='user outline' />
+                Anonymous
+                <Label.Detail>posted a while ago</Label.Detail>
+            </Label>
             <Header as='h2'>
                 How do I register to the Accessibility Centre?
             </Header>
@@ -22,6 +29,10 @@ const Post = () => (
                 It's safe to say that these symptoms have been bothering
                 me on a daily basis, and I think I need help.
             </p>
+            <Label>
+                Views
+                <Label.Detail>50</Label.Detail>
+            </Label>
         </Container>
     </div>
 );
