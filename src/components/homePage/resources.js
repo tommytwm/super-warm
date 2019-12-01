@@ -1,20 +1,6 @@
 import React from 'react'
-<<<<<<< HEAD
-import { Card, Header, Segment } from 'semantic-ui-react'
-=======
 import Map from '../homePage/map.png'
 import { Card, Grid, Header, Segment } from 'semantic-ui-react'
->>>>>>> 33fcac72845355cae1eb0d33047ca9c386b8304d
-
-// const items = [
-//     {
-//       meta: 'Posted 10 minutes ago',
-//       header: 'Accessibility Center',
-//       description:
-//         'I\'ve not been doing the best in class and I\'ve been feeling...',
-//     },
-
-//   ]
 
 const Resources = () => (
     <div>
