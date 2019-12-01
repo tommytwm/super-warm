@@ -5,6 +5,8 @@ import NeedToTalk from '../components/homePage/needToTalk'
 import { Grid, GridColumn } from 'semantic-ui-react'
 
 
+import NaviBar from '../components/navi/naviBar';
+
 const Home = () => (
 <div>
     <SelectBar/>
