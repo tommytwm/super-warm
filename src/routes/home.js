@@ -1,15 +1,10 @@
 import React from 'react';
-import SelectBar from '../components/Selectbar/selectBar'
 import FeelingsButtom from '../components/homePage/feeling'
 import NeedToTalk from '../components/homePage/needToTalk'
-import { Grid, GridColumn } from 'semantic-ui-react'
-
-
-import NaviBar from '../components/navi/naviBar';
+import { Grid } from 'semantic-ui-react'
 
 const Home = () => (
 <div>
-    <SelectBar/>
     <Grid>
         <Grid.Column width = {10}>
             <Grid.Row>

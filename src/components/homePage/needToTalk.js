@@ -1,5 +1,5 @@
 import React from 'react'
-import { Grid, Segment, Button, Header, Menu, Label, Icon } from 'semantic-ui-react'
+import { Segment, Button, Header, Menu, Label, Icon } from 'semantic-ui-react'
 
 const NeedToTalk = () => (
 <div>
