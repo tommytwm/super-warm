@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c0b78df38d08b386108e6e5bcf2f73d7",
+    "revision": "bb8dee5bc2c910e15bfa6349f1c056fb",
     "url": "/super-warm/index.html"
   },
   {
-    "revision": "f9925f40ed3683e89e6f",
-    "url": "/super-warm/static/css/2.82d2de2e.chunk.css"
+    "revision": "15e18e27ed1a28ff35a9",
+    "url": "/super-warm/static/css/2.ce0a1c10.chunk.css"
   },
   {
-    "revision": "2f9dc97e5f31fe4ee3ab",
+    "revision": "0819eb88e58d19af5010",
     "url": "/super-warm/static/css/main.34de6062.chunk.css"
   },
   {
-    "revision": "f9925f40ed3683e89e6f",
-    "url": "/super-warm/static/js/2.45bde8c7.chunk.js"
+    "revision": "15e18e27ed1a28ff35a9",
+    "url": "/super-warm/static/js/2.7cc87dd9.chunk.js"
   },
   {
-    "revision": "2f9dc97e5f31fe4ee3ab",
-    "url": "/super-warm/static/js/main.8429603d.chunk.js"
+    "revision": "0819eb88e58d19af5010",
+    "url": "/super-warm/static/js/main.3779fda6.chunk.js"
   },
   {
     "revision": "8bb0cb24e8d04f5a8d53",
@@ -44,6 +44,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/super-warm/static/media/brand-icons.e8c322de.woff2"
   },
   {
+    "revision": "e0d2b7486b532288a980d0cd5d535340",
+    "url": "/super-warm/static/media/chat-icon.e0d2b748.svg"
+  },
+  {
     "revision": "9c74e172f87984c48ddf5c8108cabe67",
     "url": "/super-warm/static/media/flags.9c74e172.png"
   },
@@ -68,8 +72,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/super-warm/static/media/icons.faff9214.woff"
   },
   {
+    "revision": "7718b3e3ff59dac728c55e725a3b0523",
+    "url": "/super-warm/static/media/logo-no-bg.7718b3e3.svg"
+  },
+  {
     "revision": "59809e64fe986e5d866f8bb0ee6dea77",
     "url": "/super-warm/static/media/map.59809e64.png"
+  },
+  {
+    "revision": "0d062b33a8b60acb2a497afe63666b16",
+    "url": "/super-warm/static/media/notification.0d062b33.mp3"
   },
   {
     "revision": "701ae6abd4719e9c2ada3535a497b341",
