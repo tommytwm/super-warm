@@ -2,14 +2,13 @@ import React from 'react';
 import {
     Grid,
     Segment,
-    Button,
-    Icon,
     Divider,
 } from 'semantic-ui-react';
 
 import Post from './post';
 import Comments from './comments';
 import Previews from './previews';
+import PostModal from './postModal';
 
 const ForumContainer = () => (
     <Grid>
@@ -19,10 +18,7 @@ const ForumContainer = () => (
         <Grid.Column width={3}>
             <Segment>
                 <Grid.Row>
-                    <Button fluid icon labelPosition='left'>
-                        <Icon name='plus' />
-                        Add a post
-                    </Button>
+                    <PostModal/>
                     <Divider/>
                 </Grid.Row>
                 <Grid.Row>

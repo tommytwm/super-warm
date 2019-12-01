@@ -4,7 +4,8 @@ import {
     Header,
     Divider,
     Label,
-    Icon
+    Icon,
+    Button
 } from 'semantic-ui-react';
 
 const Post = () => (
@@ -33,6 +34,15 @@ const Post = () => (
                 Views
                 <Label.Detail>50</Label.Detail>
             </Label>
+            <Button size='mini' floated='right' as='div' labelPosition='right'>
+            <Button size='mini' color='green'>
+                <Icon name='thumbs up' />
+                Like
+            </Button>
+            <Label as='a' basic color='green' pointing='left'>
+                14
+            </Label>
+            </Button>
         </Container>
     </div>
 );
