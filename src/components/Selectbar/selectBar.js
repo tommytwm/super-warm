@@ -4,18 +4,18 @@ import DropdownSimple from './dropDown'
 import Search from './search'
 
 const SelectBar = () => (
-  <Grid columns='equal'>
-    <Grid.Column>
-      <Segment>
+  <Segment>
+    <Grid>
+    <Grid.Row columns={2}> 
+      <Grid.Column width={4}>
         <DropdownSimple/>    
-      </Segment>
-    </Grid.Column>
-    <Grid.Column width={8}>
-      <Segment>
+      </Grid.Column>
+      <Grid.Column width={12}>
         <Search/>
-      </Segment>
-    </Grid.Column>
-  </Grid>
+      </Grid.Column>
+    </Grid.Row>
+    </Grid>
+  </Segment>
 )
 
 export default SelectBar

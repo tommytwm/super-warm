@@ -3,6 +3,8 @@ import React, { Component, Fragment } from 'react'
 import { Header, Button, Card, Image, Placeholder } from 'semantic-ui-react'
 import { Link } from 'react-router-dom'
 
+import SelectBar from '../Selectbar/selectBar';
+
 const cards = [
   {
     avatar: 'https://react.semantic-ui.com/images/avatar/large/steve.jpg',
@@ -40,6 +42,7 @@ export default class FeelingsButton extends Component {
         <Header as='h1'>
           How are you feeling today?
         </Header>
+        <SelectBar/>
         <Card.Group doubling itemsPerRow={3} stackable>
           {_.map(cards, (card) => (
             <Card key={card.header}>

@@ -2,7 +2,7 @@ import React from 'react';
 import FeelingsButtom from '../components/homePage/feeling'
 import NeedToTalk from '../components/homePage/needToTalk'
 import Resources from '../components/homePage/resources'
-import { Grid } from 'semantic-ui-react'
+import { Grid, Divider } from 'semantic-ui-react'
 
 const Home = () => (
 <div>
@@ -15,6 +15,7 @@ const Home = () => (
             <Grid.Row>
                 <FeelingsButtom/>
             </Grid.Row>
+            <Divider/>
             <Grid.Row>
                 <NeedToTalk/>
             </Grid.Row>
