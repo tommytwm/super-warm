@@ -29,9 +29,9 @@ export default class Navbar extends Component {
         </Menu.Item>
         <Menu.Item
           as={ Link }
-          to='/forum'
-          name='Forum'
-          active={activeItem === 'Forum'}
+          to='/advice'
+          name='Advice'
+          active={activeItem === 'Advice'}
           onClick={this.handleItemClick}
         >
           Forum

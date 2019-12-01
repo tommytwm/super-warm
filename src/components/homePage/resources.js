@@ -1,5 +1,5 @@
 import React from 'react'
-import { Card, Grid, Header, Segment } from 'semantic-ui-react'
+import { Card, Header, Segment } from 'semantic-ui-react'
 
 const items = [
     {
