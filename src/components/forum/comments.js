@@ -14,7 +14,9 @@ const Comments = () => (
         <Comment.Metadata>
           <div>Today at 5:42PM</div>
         </Comment.Metadata>
-        <Comment.Text>How artistic!</Comment.Text>
+        <Comment.Text>
+          You can call Student Health the day of and book an appointment! Multiple calls are encouraged!
+        </Comment.Text>
         <Comment.Actions>
           <Comment.Action>Reply</Comment.Action>
         </Comment.Actions>
@@ -29,7 +31,7 @@ const Comments = () => (
           <div>Yesterday at 12:30AM</div>
         </Comment.Metadata>
         <Comment.Text>
-          <p>This has been very useful for my research. Thanks as well!</p>
+          <p>You're not overreacting if you needed to write this post. Definitely look into registering.</p>
         </Comment.Text>
         <Comment.Actions>
           <Comment.Action>Reply</Comment.Action>
@@ -43,7 +45,7 @@ const Comments = () => (
             <Comment.Metadata>
               <div>Just now</div>
             </Comment.Metadata>
-            <Comment.Text>Elliot you are always so right :)</Comment.Text>
+            <Comment.Text>I would first drop by Student Health to fill in the mental health assessment form.</Comment.Text>
             <Comment.Actions>
               <Comment.Action>Reply</Comment.Action>
             </Comment.Actions>
@@ -59,7 +61,7 @@ const Comments = () => (
         <Comment.Metadata>
           <div>5 days ago</div>
         </Comment.Metadata>
-        <Comment.Text>Dude, this is awesome. Thanks so much</Comment.Text>
+        <Comment.Text>I'm here to talk if any, hit me up!</Comment.Text>
         <Comment.Actions>
           <Comment.Action>Reply</Comment.Action>
         </Comment.Actions>
