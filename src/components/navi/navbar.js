@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { Link } from 'react-router-dom'
-import { Menu } from 'semantic-ui-react'
+import { Menu, Label, Icon } from 'semantic-ui-react'
 
 export default class Navbar extends Component {
   state = {}
@@ -12,6 +12,12 @@ export default class Navbar extends Component {
 
     return (
       <Menu>
+        <Menu.Item>
+          <Label size='huge' color='yellow'>
+            <Icon name='fire'/>
+            Super Warm
+          </Label>
+        </Menu.Item>
         <Menu.Item
           as={ Link }
           to='/'
