@@ -1,68 +1,22 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Super Warm
 
-In the project directory, you can run:
+Super Warm is what we envision to be an online mental health forum, specifically, for university students. The platform allows for anonymous postings, online live chat with verified consultants and students, as well as appointment scheduling.
 
-### `yarn start`
+## Inspiration
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Going into my third year of university, I was struggling with some severe anxiety issues dealing with the workload from school and financial stress that came with coming to university. Left alone with no professional help for the years prior, it wasn't till I met my teammate, Janie, who was already registered with the Centre for Accessibility on campus, who helped me navigate through the system and helped get myself registered so that my mental health could be better supported in the hands of professionals.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+If it weren't for Janie, I probably would never have known how to navigate through mental health resources on campus. Albeit, the pamphlets and resources are out there and everywhere, but it all felt intimidating and crowded. I simply didn't know where to get started. Having a friend to ease me through the process made it all the more comfortable - I didn't feel judged, just supported. More importantly, I didn't need to book an appointment with a professional, which usually requires weeks of waiting before the next available appointment.
 
-### `yarn test`
+Super Warm as an idea brought to light when I realized that anonymous posting feature was already available on a classroom forum called Piazza. I wanted to provide that sense of anonymity and security so that anyone would be able to ask anything regarding mental health and anyone who is already in the system, or is a mental health practitioner or consultant would be able to answer it.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Tommy
 
-### `yarn build`
+## Continuing Steps
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+- Linking back-end with front-end
+- Connecting forum posts with a database
+- Implementing add/edit/delete feature on forum posts
+- Implementing commenting feature
