@@ -12,7 +12,7 @@ If it weren't for Janie, I probably would never have known how to navigate throu
 
 Super Warm as an idea brought to light when I realized that anonymous posting feature was already available on a classroom forum called Piazza. I wanted to provide that sense of anonymity and security so that anyone would be able to ask anything regarding mental health and anyone who is already in the system, or is a mental health practitioner or consultant would be able to answer it.
 
-- Tommy
+-> Tommy
 
 ## Continuing Steps
 
